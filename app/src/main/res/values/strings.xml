@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZYNDRA MOUSE PRO</string>
+    <string name="accessibility_description">Permite mapear teclas físicas para toques configurados. Ative somente se desejar usar o mapeador.</string>
+</resources>
